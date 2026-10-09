@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "chunksCount": 2,
+  "chunks": [
+    "01_attest_drift_stego.luau",
+    "02_runtime_sink.luau"
+  ],
+  "generatedAt": "2026-01-01T00:00:00.000Z"
+}
