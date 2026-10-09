@@ -10,7 +10,7 @@ local Auth = ...
 
 -- Default remote server base URL (e.g. GitHub Raw endpoint)
 -- Can be dynamically overridden by passing Auth.baseUrl or Auth.serverUrl
-local DEFAULT_REMOTE_BASE_URL = "https://raw.githubusercontent.com/username/repository/main/dist"
+local DEFAULT_REMOTE_BASE_URL = "https://raw.githubusercontent.com/vandawam/testing/main/dist"
 
 -- [[ ENGINE DECOY: RENDER CASCADE OPTIMIZER ]]
 local function rbxComputeLODCascade(viewportRes: Vector2, fovBias: number, occlusionBuffer: any): number
